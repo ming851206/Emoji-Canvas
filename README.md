@@ -12,4 +12,4 @@ html5 canvas練習
 
 -------------------------------------------------------------
 
-實作連結:https://ming851206.github.io/Emoji_HTML5_canvas/
+實作連結：https://ming851206.github.io/Emoji_HTML5_canvas/
