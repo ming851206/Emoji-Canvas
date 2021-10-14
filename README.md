@@ -9,4 +9,7 @@ html5 canvas練習
 共四個表情圖案
 
 表情符號參考來源：https://emojipedia.org/apple/
+
+-------------------------------------------------------------
+
 實作連結:https://ming851206.github.io/Emoji_HTML5_canvas/
